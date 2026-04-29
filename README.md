@@ -142,6 +142,7 @@ Typography: System font (San Francisco on iOS, Roboto on Android)
 ## Submission
 
 - **Figma:** https://www.figma.com/design/XOr7xvkrpBPCDzEqRtVvRe/QuickNote-—-UI-UX-Design
-- **GitHub:** [Repository link with this README and app.json visible]
+-
+
 - **Email:** seyit@pratech.tr
-- **Subject:** `PRT-CASE-MOBİL – [Ad Soyad]`
+- **Subject:** `PRT-CASE-MOBİL – [Egehan Hatipoğlu]`
