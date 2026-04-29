@@ -142,7 +142,5 @@ Typography: System font (San Francisco on iOS, Roboto on Android)
 ## Submission
 
 - **Figma:** https://www.figma.com/design/XOr7xvkrpBPCDzEqRtVvRe/QuickNote-—-UI-UX-Design
--
-
 - **Email:** seyit@pratech.tr
 - **Subject:** `PRT-CASE-MOBİL – [Egehan Hatipoğlu]`
